@@ -21,7 +21,7 @@ div {
     align-content: space-between;
 }
 
-div.imagem {
+.imagem {
     padding: 12px;
     max-width: 100vw;
 }
